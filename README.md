@@ -3,7 +3,7 @@
 
 ---
 
-##关于我
+## 关于我
 
 名称：Prismscope
 来自：中国嘉兴
@@ -19,13 +19,13 @@
 
 ---
 
-##技术与技能
+## 技术与技能
 我使用的编程语言：Python（langchain，NumPy)
 我使用的工具：
 
-##制作的项目
+## 制作的项目
 
 ---
 
-##与我取得联系
+## 与我取得联系
 - [PrismScope@outlook.com](mailto:PrismScope@outlook.com)
