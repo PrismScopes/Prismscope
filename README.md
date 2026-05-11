@@ -30,6 +30,7 @@
   - AI应用学
   - 应用开发
 ---
+```
 
 ## 技术与技能
 我使用的编程语言：Python（langchain，NumPy)
