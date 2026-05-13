@@ -34,8 +34,8 @@
 ```
 
 ## 技术与技能
-我使用的编程语言：Python（langchain，NumPy)
-我使用的工具：
+我使用的编程语言：Python（langchain，NumPy)，Markdown
+我使用的工具：Qdrant/ChromaDB，UV，Redis，docker，Trae，PowerToys，Git
 
 ## 制作的项目
 
